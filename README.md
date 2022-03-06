@@ -5,7 +5,7 @@
 * Status : Done but can improve
 
 Specifications :
--[x] Store data in a file
--[x] Java
--[x] Clean code
+- [x] Store data in a file
+- [x] Java
+- [x] Clean code
 
